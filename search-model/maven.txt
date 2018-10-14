@@ -1,0 +1,1 @@
+mvn install:install-file -Dfile=/Users/lican/Downloads/commons-collections4-4.2.jar -DgroupId=org.apache.commons -DartifactId=commons-collections4 -Dversion=4.2 -Dpackaging=jar
